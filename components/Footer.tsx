@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 
 import MagicButton from './ui/MagicButton'
 import { FaLocationArrow } from 'react-icons/fa'
