@@ -19,7 +19,7 @@ export function Button({
   duration,
   className,
   ...otherProps
-}: {
+}:{
   borderRadius?: string;
   children: React.ReactNode;
   as?: any;
@@ -31,10 +31,11 @@ export function Button({
 }) {
   return (
     <Component
-      className={cn(
-        "bg-transparent relative text-xl p-[1px] overflow-hidden md:col-span-2",
-        containerClassName
-      )}
+    className={cn(
+      // remove h-16 w-40, add  md:col-span-2
+      "bg-transparent relative text-xl p-[1px] overflow-hidden md:col-span-2 md:row-span-1",
+      containerClassName
+    )}
       style={{
         borderRadius: borderRadius,
       }}
