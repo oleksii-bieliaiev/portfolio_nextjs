@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: '/portfolio-next',
+  basePath: '/portfolio_nextjs',
   output: "export",
   typescript: {
     ignoreBuildErrors: true,
