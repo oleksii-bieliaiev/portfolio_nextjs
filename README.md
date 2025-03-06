@@ -1,1 +1,2 @@
-DEMO - https://portfolio-nextjs-m5bc.vercel.app/
+DEMO - [https://portfolio-nextjs-oleksii-bieliaiev.vercel.app/]
+My Portfolio is a modern, responsive website built using Next.js, Tailwind CSS, and TypeScript. The project showcases my skills as a Frontend Developer with a focus on clean code, fast performance, and seamless user experience. Through dynamic components and a sleek design, I aim to highlight my expertise in building scalable and maintainable web applications.
