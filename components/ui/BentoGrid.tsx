@@ -156,6 +156,7 @@ export const BentoGridItem = ({
           )}
         </div>
       </div>
+      
     </div>
   );
 };
