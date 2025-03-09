@@ -73,7 +73,7 @@ export const BentoGridItem = ({
         className
       )}
       style={{
-        background: "rgb(4,7,29)",
+        background: "#352F44",
         backgroundColor:
           "linear-gradient(90deg, rgba(4,7,29,1) 0%, rgba(12,14,35,1) 100%)",
       }}
@@ -120,17 +120,17 @@ export const BentoGridItem = ({
               <div className="flex flex-col gap-3 lg:gap-8">
                 {['JavaScript', 'Next.js', 'React.js'].map
                   ((item) => (
-                    <span key={item} className="py-2 lg:py-4 lg:px-3 px-3 text-xs lg:text-base opacity-50 lg:opacity-100 rounded-lg text-center bg-[#10132E]">
+                    <span key={item} className="py-2 lg:py-4 lg:px-3 px-3 text-xs lg:text-base opacity-50 lg:opacity-100 rounded-lg text-center bg-[#5C5470]">
                       {item}
                     </span>
                   ))}
-                <span className="py-4 px-3 rounded-lg text-center bg-[#10132E]"/>
+                <span className="py-4 px-3 rounded-lg text-center bg-[#5C5470]"/>
               </div>
               <div className="flex flex-col gap-3 lg:gap-8">
-                <span className="py-4 px-3 rounded-lg text-center bg-[#10132E]"/>
+                <span className="py-4 px-3 rounded-lg text-center bg-[#5C5470]"/>
                 {['TypeScript','Tailwind CSS','Node.js'].map
                   ((item) => (
-                    <span key={item} className="py-2 lg:py-4 lg:px-3 px-3 text-xs lg:text-base opacity-50 lg:opacity-100 rounded-lg text-center bg-[#10132E]">
+                    <span key={item} className="py-2 lg:py-4 lg:px-3 px-3 text-xs lg:text-base opacity-50 lg:opacity-100 rounded-lg text-center bg-[#5C5470]">
                       {item}
                     </span>
                   ))}
@@ -149,7 +149,7 @@ export const BentoGridItem = ({
                  title={copied ? 'Email copied' : 'Copy my email'}
                  icon={<IoCopyOutline/>}
                  position='left'
-                 otherClasses="!bg-[#161A31]"
+                 otherClasses="!bg-[#352F44]"
                  handleClick={handleCopy}
                />
             </div>
