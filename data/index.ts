@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Hi, my name is Oleksii Bieliaiev. I’m a Frontend Developer with 1.5 years of hands-on experience and a strong technical background in Software Development. I specialize in Next.js, React, JavaScript, TypeScript, Redux, HTML/CSS, and Node.js, along with various preprocessors and frameworks.",
+    title: "Hi, my name is Oleksii Bieliaiev. I’m a Frontend Developer with 1.5 years of hands-on experience and a strong technical background in Software Development. I specialize in Next.js, React, JavaScript, TypeScript, Redux, and Tailwind CSS.",
     description: "",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
