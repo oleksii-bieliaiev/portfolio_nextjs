@@ -84,7 +84,7 @@ export const projects = [
     des: "An e-commerce platform for purchasing mobile phones and tablets, designed to provide a seamless shopping experience.",
     img: "/cat.jpg",
     iconLists: ["/re.svg", "/ts.svg", "/scss.svg", "/figma.svg"],
-    link: "https://oleksii-bieliaiev.github.io/mobile-hub-react/",
+    link: "https://oleksii-bieliaiev.github.io/phone-catalog/",
   },
   {
     id: 3,
@@ -92,7 +92,7 @@ export const projects = [
     des: "A task management application designed to help users organize and track their tasks efficiently. Users can easily add, edit, remove, and mark tasks as completed. The app also provides sorting options through specific filters, ensuring a seamless and productive experience.",
     img: "/todo.jpg",
     iconLists: ["/re.svg", "/ts.svg", "/scss.svg", "/figma.svg"],
-    link: "https://oleksii-bieliaiev.github.io/react_todo-app/",
+    link: "https://oleksii-bieliaiev.github.io/todo-app-react-api/",
   },
   {
     id: 4,
