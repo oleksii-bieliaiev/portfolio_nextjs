@@ -84,7 +84,7 @@ export const projects = [
     des: "An e-commerce platform for purchasing mobile phones and tablets, designed to provide a seamless shopping experience.",
     img: "/cat.jpg",
     iconLists: ["/re.svg", "/ts.svg", "/scss.svg", "/figma.svg"],
-    link: "https://oleksii-bieliaiev.github.io/phone-catalog/",
+    link: "https://oleksii-bieliaiev.github.io/phone_catalog_react/",
   },
   {
     id: 3,
