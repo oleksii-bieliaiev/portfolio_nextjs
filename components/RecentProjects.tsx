@@ -10,11 +10,11 @@ const RecentProjects = () => {
   const [isClient, setIsClient] = useState(false);
 
   useEffect(() => {
-    setIsClient(true); // Обновляем состояние, когда компонент загружен на клиенте
+    setIsClient(true); 
   }, []);
 
   if (!isClient) {
-    return null; // Возвращаем null на сервере, чтобы избежать ошибок гидратации
+    return null; 
   }
   return (
     <div className='py-20' id='projects'>
