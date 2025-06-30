@@ -82,7 +82,7 @@ export const projects = [
     id: 2,
     title: "Mobile Hub Express - The e-commerce platform",
     des: "An e-commerce platform for purchasing mobile phones and tablets, designed to provide a seamless shopping experience.",
-    img: "/cat1.png",
+    img: "/cat1.jpg",
     iconLists: ["/re.svg", "/ts.svg", "/scss.svg", "/figma.svg"],
     link: "https://oleksii-bieliaiev.github.io/phone_catalog_react/",
   },
